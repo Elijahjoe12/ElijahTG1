@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElijahTG1
-- 👀 I’m interested in python and machine learning. 
-- 🌱 I’m currently learning machine learning. 
+- 👀 I’m interested in data analysis. 
+- 🌱 I’m currently learning data analysis with python. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on elijahjoetg22@gmail.com
 

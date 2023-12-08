@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElijahTG1
+- 👋 Hi, I’m @Elijahjoe!2
 - 👀 I’m interested in data analysis. 
 - 🌱 I’m currently learning data analysis with python. 
 - 💞️ I’m looking to collaborate on ...
